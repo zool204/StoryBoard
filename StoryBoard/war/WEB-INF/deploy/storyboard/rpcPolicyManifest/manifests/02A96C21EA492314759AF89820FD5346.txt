@@ -1,0 +1,2 @@
+serviceClass: org.devslashnull.storyboard.client.GreetingService
+path: B6E36AB0F7B1C9AC523A2DEC23BD3269.gwt.rpc
